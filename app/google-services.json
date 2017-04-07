@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "355551466329",
+    "firebase_url": "https://justforleviathans.firebaseio.com",
+    "project_id": "justforleviathans",
+    "storage_bucket": "justforleviathans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355551466329:android:ff36da73c175c921",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.ftsfb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355551466329-gkn8t1ff8ens8q4drsddener2s4d6370.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.ftsfb1",
+            "certificate_hash": "42230b181be9141ff56c9899484ca50cb63fe509"
+          }
+        },
+        {
+          "client_id": "355551466329-1pc1cprdj0el4uiv7n4hf202f3dg3nnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD4jHKOkwjFve_htPvHgzbKDKMV9Z8xDg"
+        },
+        {
+          "current_key": "AIzaSyDPm_Z4XSWok1k-BGhl3LuV4G_1AjRXlhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355551466329-1pc1cprdj0el4uiv7n4hf202f3dg3nnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355551466329:android:a60e8c18c69de82e",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.fbdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355551466329-aoarpklova7qb7jhk8j6dr51mongkbhi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.fbdb",
+            "certificate_hash": "42230b181be9141ff56c9899484ca50cb63fe509"
+          }
+        },
+        {
+          "client_id": "355551466329-1pc1cprdj0el4uiv7n4hf202f3dg3nnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD4jHKOkwjFve_htPvHgzbKDKMV9Z8xDg"
+        },
+        {
+          "current_key": "AIzaSyDPm_Z4XSWok1k-BGhl3LuV4G_1AjRXlhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355551466329-1pc1cprdj0el4uiv7n4hf202f3dg3nnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
